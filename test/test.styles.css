@@ -6,13 +6,4 @@
   pointer-events: none;
 }
 
-header {
-  background-color: grey;
-}
-h2 {
-    background-color: cornflowerblue;
-}
-h3 {
-    background-color: ghostwhite;
-    color: blue;
-}
+
