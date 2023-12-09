@@ -1,11 +1,17 @@
 header {
-    background-color: grey;
-  }
-  h2 {
-      background-color: cornflowerblue;
+  background-color: grey;
+}
+.info {
+  border: 2px solid white;
+  text-align: center;
+}
+
+h2 {
+    background-color: cornflowerblue;
   }
   h3 {
-      background-color: ghostwhite;
-      color: blue;
+    background-color: ghostwhite;
+    color: blue;
   }
-  
+
+
